@@ -207,6 +207,7 @@ Aria2 has been shutdown successfully.=Aria2 已經成功關閉.
 Toggle Navigation=切換導航
 Quick Setting=設定捷徑
 Global Speed Limit=全域速度限制
+Downloaded File Management=已下載文件管理
 Loading=正在載入...
 More Than One Day=超過1天
 Unknown=不詳

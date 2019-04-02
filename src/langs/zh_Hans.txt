@@ -207,6 +207,7 @@ Aria2 has been shutdown successfully.=Aria2 已经成功关闭.
 Toggle Navigation=切换导航
 Quick Setting=快捷设置
 Global Speed Limit=全局速度限制
+Downloaded File Management=已下载文件管理
 Loading=正在加载...
 More Than One Day=超过1天
 Unknown=未知
